@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
 def goodbye():
-    print("Goodbye, World!")
+    print("Auf Wiedersehen, Welt!")
 
 def hello():
-    print("Hello, World!")
+    print("Hallo, Welt!")
 
 def thanks():
-    print("Thanks, World!")
+    print("Danke, Welt!")
 
 if __name__ == '__main__':
     hello()
